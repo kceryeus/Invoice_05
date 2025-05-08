@@ -1,0 +1,16 @@
+# Node modules and build output
+node_modules/
+dist/
+build/
+
+# OS and editor-specific files
+.DS_Store
+Thumbs.db
+*.log
+
+# Vercel local config
+.vercel/
+
+# Environment variables
+.env
+.env.local
